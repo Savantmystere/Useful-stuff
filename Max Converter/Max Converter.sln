@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Converter", "Max Converter\Max Converter.csproj", "{A87092D4-00D6-4B87-A56D-7C412DA18569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87092D4-00D6-4B87-A56D-7C412DA18569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87092D4-00D6-4B87-A56D-7C412DA18569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87092D4-00D6-4B87-A56D-7C412DA18569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87092D4-00D6-4B87-A56D-7C412DA18569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\genea\\RiderProjects\\Max Converter\\Max Converter\\Max Converter.csproj": {}
+    "C:\\Users\\genea\\OneDrive\\Git_Repos\\Useful-stuff\\Max Converter\\Max Converter\\Max Converter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\genea\\RiderProjects\\Max Converter\\Max Converter\\Max Converter.csproj": {
+    "C:\\Users\\genea\\OneDrive\\Git_Repos\\Useful-stuff\\Max Converter\\Max Converter\\Max Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\genea\\RiderProjects\\Max Converter\\Max Converter\\Max Converter.csproj",
+        "projectUniqueName": "C:\\Users\\genea\\OneDrive\\Git_Repos\\Useful-stuff\\Max Converter\\Max Converter\\Max Converter.csproj",
         "projectName": "Max Converter",
-        "projectPath": "C:\\Users\\genea\\RiderProjects\\Max Converter\\Max Converter\\Max Converter.csproj",
+        "projectPath": "C:\\Users\\genea\\OneDrive\\Git_Repos\\Useful-stuff\\Max Converter\\Max Converter\\Max Converter.csproj",
         "packagesPath": "C:\\Users\\genea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\genea\\RiderProjects\\Max Converter\\Max Converter\\obj\\",
+        "outputPath": "C:\\Users\\genea\\OneDrive\\Git_Repos\\Useful-stuff\\Max Converter\\Max Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

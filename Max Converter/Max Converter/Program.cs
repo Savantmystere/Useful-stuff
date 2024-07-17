@@ -47,7 +47,7 @@ for(var xIndex = 0; xIndex < x; xIndex++  )
 {
     for (var yIndex = 0; yIndex < y; yIndex++)
     {
-        maxString.Append($"{xIndex} {yIndex} {rows[xIndex][yIndex]}");
+        maxString.Append($"{yIndex} {xIndex} {rows[xIndex][yIndex]}");
         maxString.Append(" ");
     }
 }
